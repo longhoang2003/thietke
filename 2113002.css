@@ -1,0 +1,57 @@
+body {
+    background-color: hsla(147, 89%, 71%, 0.066);
+}
+.longhinhanh{
+    max-width: 100px;
+    height: auto;
+}
+.chude{
+    color: rgba(56, 185, 39, 0.562);
+}
+.tuongtac{
+   font-size: 20px;
+    height: 40px;
+    background-color: aqua;
+    color: rgb(221, 30, 30);
+}
+.indam{
+    font-weight: bold; 
+}
+.hinhthiennhien{
+    max-width: 250px;
+height: auto;
+}
+.ngaydang{
+    font-size:15px;
+    color:#00e699 ;
+}
+.hinhcongnghe{
+    max-width: 250px;
+height: auto;
+}
+.ngaydang2{
+    font: size 16px;
+    color:#3d3dd0 ;
+}
+.congnghe{
+    color: hwb(240 0% 0%);
+}
+.hinhminhhoa{
+    max-width: 250px;
+    height: auto;
+}
+.chude{
+    
+    color: hsl(194, 74%, 53%);
+}
+.quangcao{
+    max-width: 400px;
+height: auto;
+}
+.thay{
+    font: size 100px;
+    color:#FF9999;
+}
+.LINKCV{
+    color: #FF9900;
+}
